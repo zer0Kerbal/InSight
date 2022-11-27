@@ -23,7 +23,7 @@
 ### Status 1.0.0.0
 
 * Issues
-  * closes # - Archival Releases
-  * closes # - 0.2.0.0-release - `<Archival>` edition
+  * closes #7 - Archival Releases
+  * closes #12 - 0.2.0.0-release - `<Archival>` edition
 
 ---
