@@ -1,6 +1,6 @@
-# MOD-NAME (ABBV)   
+# InSight Lander (INSIGHT)   
 
-## AUTH-NAME
+## Matheo G
 
 this archive has been modified with any or all of the following:
 * structure
@@ -13,8 +13,8 @@ this archive has been modified with any or all of the following:
 * contents added
   * Attributions.htm
   * changelog.md
-  * license.txt
+  * WTPFL.txt
   * ManualInstallation.htm
-  * MOD-NAME.version
+  * InSight.version
   * this readme.txt
 * by zer0Kerbal
