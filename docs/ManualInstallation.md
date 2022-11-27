@@ -29,22 +29,22 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the `MatheoG` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/MatheoG/NewShepard`
+  * Delete `<KSP_ROOT>/GameData/MatheoG/InSight`
 * Extract the package's `MatheoG` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/MatheoG` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/MatheoG/NewShepard`
+  * you should end up with `<KSP_ROOT>/GameData/MatheoG/InSight`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/MatheoG/NewShepard`
+  * Delete `<KSP_ROOT>/GameData/MatheoG/InSight`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/MatheoG/NewShepard`
+  * you should end up with `<KSP_ROOT>/GameData/MatheoG/InSight`
 
 ## The following file layout must be present after installation
 
@@ -52,7 +52,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [MatheoG]
-      + [NewShepard]
+      + [InSight]
         + [Agencies]
           ...
         + [Compatibility]
@@ -73,7 +73,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * GPL-2.0.txt
         * ManualInstallation.htm
         * readme.htm
-        * NewShepard.version
+        * InSight.version
       ...
     ...
     * ModuleManager.ConfigCache
