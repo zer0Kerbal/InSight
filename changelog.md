@@ -2,7 +2,7 @@
   
 | modName    | InSight Lander (INSIGHT)                                          |
 | ---------- | ----------------------------------------------------------------- |
-| license    | WTFPL                                                             |
+| license    | GPL-2.0                                                           |
 | author     | Matheo G and zer0Kerbal                                           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/210824-*/) |
 | github     | (https://github.com/zer0Kerbal/NewShepard)                        |
