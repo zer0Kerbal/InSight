@@ -13,20 +13,19 @@ updated: 01 Oct 2022 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-# InSight Lander (INSIGHT) [WIP]
+# InSight Lander (INSIGHT
 
 [Home](./index.md)
 
 ## Parts Catalog
 
-InSight Lander (INSIGHT) is a suborbital rocket made by Green Origin with custom IVA and consists of two parts.
+The Interior Exploration using Seismic Investigations, Geodesy and Heat Transport (InSight) robotic lander by Klockheed Martian for Kerbal Space Program.
 
 ---
 
-* Booster
-* Capsule
+* Lander
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/InSight/master/docs/thumbs/nshpd-booster_icon.png" alt="Booster" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/InSight/master/docs/thumbs/nshpd-capsule_icon.png" alt="Capsule" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/InSight/master/docs/thumbs/InSight_icon.png" alt="Lander" width="25%" height="25%" />
 
 ---
 
