@@ -32,10 +32,5 @@
 	{
 		"NAME" :	  "InSight",
 		"DIRECTORY" : "MatheoG/InSight"
-	},
-	"INSTALL_LOC" :
-	{
-		"NAME" :	  "Ships",
-		"DIRECTORY" : "Ships"
 	}
 }
