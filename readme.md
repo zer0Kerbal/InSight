@@ -10,7 +10,7 @@ updated: 04 Oct 2022 -->
 [![Pages][MOD:pages:shd]][MOD:pages]
 
 
-# InSight Lander (INSIGHT)
+# Interior Exploration using Seismic Investigations, Geodesy and Heat Transport(INSIGHT) lander
 
 The Interior Exploration using Seismic Investigations, Geodesy and Heat Transport (InSight) robotic lander by Klockheed Martian for Kerbal Space Program.
 
@@ -41,15 +41,15 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > Assistance (even a cheat sheet on what scales and how much) would be appreciated.
 >
 > Some model (.mu) work should be done, that is above my abilities:
-> Booster: animations interfering with each other, legs (stock leg modules)
-> Capsule: hatch, light(s), parachute
+> lander: 
 
 ### Help Wanted
 
 > * Compatibility patches
+>   * RO/RSS/RF/RT in particular
 > * Contracts for these glorious parts
 > * Updated and/or Variant Textures
-> * Model updates
+> * Model updates and exporting textures from the model (all textures are in the model)
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
@@ -89,16 +89,16 @@ or [![CKAN][ckan:img]][ckan:url]
 
 Other mods by [Matheo G][matheog]
 
+* [Ariane 6 (S3L)](https://forum.kerbalspaceprogram.com/index.php?/topic/210687-*/)
 * [New Shepard (NSHPD)](https://forum.kerbalspaceprogram.com/index.php?/topic/210741-*/)
 * [TESS](https://forum.kerbalspaceprogram.com/index.php?/topic/210656-*/)
-* [Ariane 6 (S3L)](https://forum.kerbalspaceprogram.com/index.php?/topic/210687-*/)
-* [InSight Lander (INSIGHT)](https://forum.kerbalspaceprogram.com/index.php?/topic/210824-*/)
 
 ### Supports
 
 * Either [^3]
   * [Module Manager /L][mml]
   * [Module Manager][mm]
+  * [Real Solar System (RSS)][rss]
 
 ### Tags
 
@@ -149,7 +149,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [MOD:attr]: https://zer0kerbal.github.io/InSight/Attributions "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/InSight/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/InSight/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/210824-*/ "New Shepard Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/210824-*/ "InSight Lander (INSIGHT) Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/InSight/issues "Issues"
 [MOD:markt]: https://zer0kerbal.github.io/InSight/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/InSight/Notices "Notices"
@@ -202,6 +202,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[rss]: https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*/ "Real Solar System (rss)"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
