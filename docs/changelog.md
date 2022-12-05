@@ -32,7 +32,9 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ### Summary 1.2.99.0
 
-* engine stats need review (all stats)
+* engines
+  * stats need review (all stats)
+  * there are twelve (12) engines on this part, each with its own EngineFX and effect modules -- only one seems to show.
 * Real (Sized) Solar System patch needs much refinement
 * models (.mu) have textures baked in
 * convert to stock leg modules? (beyond me)
@@ -132,8 +134,6 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Create
   * <GhostParts.cfg> v1.3.0.0
     * part names have changed
-  * <NewShepard.cfg> v1.0.0.0
-    * adds localized tags to parts
 * closes #8 - Create Localization directory and contents
 * closes #14 - English <en-us.cfg>
 * closes #31 - Part Localization
