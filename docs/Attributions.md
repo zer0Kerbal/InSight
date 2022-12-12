@@ -56,10 +56,9 @@ updated: 03 Jun 2022
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png " alt="Português Brasil" style="zoom:100%;" /> Brazilian Portuguese (Português Brasil) courtesy of <a href="https://github.com/Lisias" alt="LisiasT" > LisiasT</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
-
-### Art Asset(s)
 
 * [Logo](https://en.wikipedia.org/wiki/InSight#/media/File:InSight_Mission_Logo.svg)
   * Public Domain
